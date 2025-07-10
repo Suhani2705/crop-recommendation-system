@@ -6,7 +6,7 @@ A machine learning project designed to recommend the **most suitable crop** for 
 
 ## 📊 Features
 
-- **Dataset**: [Crop Recommendation Dataset](https://www.kaggle.com/datasets/mohitsingh870/crop-recommendation-dataset)
+- **Dataset**: [Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
 - **Algorithms Used**:
   - Random Forest Classifier (RF)
   - Support Vector Machine (SVM) with RBF kernel
