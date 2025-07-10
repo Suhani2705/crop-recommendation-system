@@ -56,17 +56,3 @@ To make a prediction, the following environmental and soil parameters are requir
 
 ---
 
-## 🧠 Sample Prediction
-
-Below is how a sample crop prediction is made using the combined model logic:
-
-```python
-recommend_by_confidence(
-    best_svm, rf, sc,
-    N=74, P=34, K=26,
-    temperature=25,
-    humidity=67.1,
-    ph=6.98,
-    rainfall=202.8,
-    reverse_dict=crop_reverse_dict
-) 
